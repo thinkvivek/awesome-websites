@@ -17,3 +17,11 @@ https://www.unscreen.com/
 To make flow charts in JS
 
 https://mermaid-js.github.io
+
+To create meta tags for your website
+
+https://metatags.io/
+
+To remove background from an Image
+
+https://remove.bg/

@@ -1,4 +1,4 @@
-# awesome-websites
+# Awesome Websites
 List of some really cool websites
 
 To remove unwanted paywall

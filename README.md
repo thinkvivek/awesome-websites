@@ -29,3 +29,7 @@ https://remove.bg/
 Create stunning product mockups
 
 http://smartmockups.com/
+
+Creating Images from Text
+
+https://openai.com/blog/dall-e/

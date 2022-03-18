@@ -33,3 +33,9 @@ http://smartmockups.com/
 Creating Images from Text
 
 https://openai.com/blog/dall-e/
+
+Build a job-winning resume for free
+
+https://flowcv.io/
+
+

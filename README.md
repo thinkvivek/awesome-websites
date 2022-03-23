@@ -47,3 +47,8 @@ https://storytale.io/
 Make Profile Photos
 
 https://pfpmaker.com/
+
+SigmaOS Browser
+
+http://sigmaos.com/
+

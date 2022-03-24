@@ -48,7 +48,12 @@ Make Profile Photos
 
 https://pfpmaker.com/
 
+
 SigmaOS Browser
 
 http://sigmaos.com/
 
+
+For creating README files
+
+https://readme.so/

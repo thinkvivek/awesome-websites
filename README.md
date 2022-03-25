@@ -57,3 +57,7 @@ http://sigmaos.com/
 For creating README files
 
 https://readme.so/
+
+Database Schema Designer
+
+https://app.dbdesigner.net/designer/schema/guest_template

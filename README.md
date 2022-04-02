@@ -81,3 +81,7 @@ All Apps at one place
 
 https://meetfranz.com/signup/success
 
+For automatically generating quality content
+
+https://peppertype.ai/
+

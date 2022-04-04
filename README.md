@@ -85,3 +85,8 @@ For automatically generating quality content
 
 https://peppertype.ai/
 
+
+For saving Inbox from Spam
+
+https://maildrop.cc/
+

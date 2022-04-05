@@ -90,3 +90,9 @@ For saving Inbox from Spam
 
 https://maildrop.cc/
 
+
+Awesome whiteboard tool
+
+https://excalidraw.com/
+
+

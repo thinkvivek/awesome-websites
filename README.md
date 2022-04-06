@@ -96,3 +96,7 @@ Awesome whiteboard tool
 https://excalidraw.com/
 
 
+Task management Tool
+
+https://www.taskade.com/
+

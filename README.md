@@ -100,3 +100,7 @@ Task management Tool
 
 https://www.taskade.com/
 
+
+For sharing photos accross devices
+
+https://snapdrop.net/

@@ -101,6 +101,6 @@ Task management Tool
 https://www.taskade.com/
 
 
-For sharing photos accross devices
+For sharing photos across devices
 
 https://snapdrop.net/

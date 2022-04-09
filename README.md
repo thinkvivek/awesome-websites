@@ -109,3 +109,10 @@ https://snapdrop.net/
 Capture and share Twitter posts as beautiful images
 
 https://poet.so/
+
+
+For compressing photos
+
+https://compressor.io/
+
+

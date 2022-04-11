@@ -116,3 +116,6 @@ For compressing photos
 https://compressor.io/
 
 
+Collection of beautiful color palettes
+
+https://colorhunt.co/

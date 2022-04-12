@@ -119,3 +119,9 @@ https://compressor.io/
 Collection of beautiful color palettes
 
 https://colorhunt.co/
+
+
+Free Illustrations
+
+https://lukaszadam.com/illustrations
+

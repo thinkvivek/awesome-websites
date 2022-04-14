@@ -135,3 +135,8 @@ DevDocs brings together numerous API documentation in a single, searchable inter
 
 https://devdocs.io
 
+
+So many good articles to read daily
+
+https://app.daily.dev/
+

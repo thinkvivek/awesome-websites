@@ -140,3 +140,8 @@ So many good articles to read daily
 
 https://app.daily.dev/
 
+
+Learn CSS basics from this website
+
+https://css-tricks.com/
+

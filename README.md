@@ -145,3 +145,8 @@ Learn CSS basics from this website
 
 https://css-tricks.com/
 
+
+To beautify the code
+
+https://codebeautify.org/
+

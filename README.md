@@ -150,3 +150,8 @@ To beautify the code
 
 https://codebeautify.org/
 
+
+Create AI-based videos in over 50+ languages.
+
+https://www.synthesia.io/
+

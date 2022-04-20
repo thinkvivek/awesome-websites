@@ -155,3 +155,9 @@ Create AI-based videos in over 50+ languages.
 
 https://www.synthesia.io/
 
+
+Memes and jokes related to programming
+
+https://programmerhumor.io/
+
+

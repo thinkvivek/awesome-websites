@@ -165,3 +165,8 @@ Share Tweet Images on Social Media
 
 https://poet.so/
 
+
+Visualize the difference between different fonts
+
+https://type-scale.com/
+

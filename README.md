@@ -174,3 +174,9 @@ https://type-scale.com/
 Making the code readable and pretty
 
 https://unminify.com/
+
+
+Fast & efficient Image Compression
+
+https://compressor.io/
+

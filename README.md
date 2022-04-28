@@ -185,3 +185,8 @@ Customize Shadows
 
 https://box-shadow.dev/
 
+
+Instant font identification
+
+https://www.myfonts.com/WhatTheFont/
+

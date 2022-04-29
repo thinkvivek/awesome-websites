@@ -190,3 +190,9 @@ Instant font identification
 
 https://www.myfonts.com/WhatTheFont/
 
+
+Avoid chatbots and get actual human customer support
+
+https://gethuman.com/
+
+

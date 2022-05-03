@@ -196,3 +196,7 @@ Avoid chatbots and get actual human customer support
 https://gethuman.com/
 
 
+See all the timezones in the world laid out graphically
+
+https://everytimezone.com/
+

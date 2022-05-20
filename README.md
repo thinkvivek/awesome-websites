@@ -210,3 +210,8 @@ Discover what runs a website
 
 https://www.whatruns.com/
 
+
+AI to detect fake reviews and scams
+
+https://www.fakespot.com/
+

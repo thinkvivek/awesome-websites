@@ -215,3 +215,7 @@ AI to detect fake reviews and scams
 
 https://www.fakespot.com/
 
+
+Omni Calculator solves 2746 problems anywhere from finance and business to health.
+
+https://www.omnicalculator.com/

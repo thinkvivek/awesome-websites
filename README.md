@@ -225,3 +225,8 @@ Comprehensive database of the world’s most wondrous places and foods
 
 https://www.atlasobscura.com/
 
+
+The Academic Phrasebank is a general resource for academic writers.
+
+https://www.phrasebank.manchester.ac.uk/
+

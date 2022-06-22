@@ -219,3 +219,9 @@ https://www.fakespot.com/
 Omni Calculator solves 2746 problems anywhere from finance and business to health.
 
 https://www.omnicalculator.com/
+
+
+Comprehensive database of the world’s most wondrous places and foods
+
+https://www.atlasobscura.com/
+

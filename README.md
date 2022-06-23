@@ -230,3 +230,9 @@ The Academic Phrasebank is a general resource for academic writers.
 
 https://www.phrasebank.manchester.ac.uk/
 
+
+Rytr is an AI writing assistant that helps you create high-quality content
+
+https://rytr.me/
+
+

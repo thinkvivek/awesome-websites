@@ -236,3 +236,11 @@ Rytr is an AI writing assistant that helps you create high-quality content
 https://rytr.me/
 
 
+Cool stuff to read
+
+https://waitbutwhy.com/
+
+
+
+
+

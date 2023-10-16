@@ -5,6 +5,8 @@ To remove unwanted paywall
 
 https://12ft.io/
 
+https://1ft.io/
+
 Vocalremover separates the music from the vocals with a powerful AI algorithm
 
 https://vocalremover.org/

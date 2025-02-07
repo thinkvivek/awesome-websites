@@ -242,6 +242,13 @@ Cool stuff to read
 
 https://waitbutwhy.com/
 
+Visualize Json into interactive graphs
+https://jsoncrack.com/
+
+Watercolor Paintings
+https://easypaintingidea.com/
+
+
 
 
 
